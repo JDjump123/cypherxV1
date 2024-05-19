@@ -21,10 +21,11 @@ cypherX is a powerful and user-friendly Windows Console application designed to 
 1. Ensure you have the Android SDK installed and `adb` and `fastboot` accessible from your system PATH.
 2. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/cypherX.git
+    git clone https://github.com/JDjump123/cypherxV1.git
     ```
 3. Open the solution file `cypherX.sln` in Visual Studio.
 4. Build the solution.
+5. OR just download it lol
 
 ## Usage
 
