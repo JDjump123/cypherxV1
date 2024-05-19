@@ -50,22 +50,11 @@ cypherX is a powerful and user-friendly Windows Console application designed to 
 11. **Fake Brick**: Initiate a harmless fake brick prank.
 12. **Exit**: Exit the application.
 
-## Screenshots
-
-(Add your screenshots here)
 
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any enhancements, bug fixes, or features.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Disclaimer
 
 Use this tool at your own risk. The author is not responsible for any damage caused to your device by using this tool.
-
----
-
-Feel free to customize this README file to better fit your needs or style. If you have any questions or need further assistance, don't hesitate to ask!
